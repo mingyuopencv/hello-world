@@ -1,2 +1,2 @@
 # hello-world
-A new reposotory of mew world.
+A new reposotory of new world.
